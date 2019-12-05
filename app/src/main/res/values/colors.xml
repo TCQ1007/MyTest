@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--0-->
+    <color name="TitleColor">#DFB86F</color>
+    <color name="ArticleColor">#462C00</color>
+    <color name="ArticleBGColor">#E4C999</color>
+    <!--1#041242-->
+    <color name="ArticleColor1">#4C4C4C</color>
+    <color name="ArticleBGColor1">#010101</color>
+    <!--2#63F8D0-->
+    <color name="ArticleColor2">#574227</color>
+    <color name="ArticleBGColor2">#D6CCC3</color>
+    <!--3#71F191-->
+    <color name="ArticleColor3">#262626</color>
+    <color name="ArticleBGColor3">#A9E3FB</color>
+    <!--4#451236-->
+    <color name="ArticleColor4">#272725</color>
+    <color name="ArticleBGColor4">#F6D8A4</color>
+    <!--5#6a7962-->
+    <color name="ArticleColor5">#252525</color>
+    <color name="ArticleBGColor5">#FFFFFF</color>
+    <!--readsetColor-->
+    <color name="RSCBGColor">#111010</color>
+    <color name="main_background">#3aa8ff</color>
+    <color name="readsetColor">#161616</color>
+    <color name="readsetfontColor">#4C4C4C</color>
+<!--    NewReadTheme-->
+
+</resources>

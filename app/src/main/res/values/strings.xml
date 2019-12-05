@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="example">
+        I didn’t grow up in a very loving family.\n
+        我不是在温暖的家庭里长大的孩子\n
+        In fact,\n
+        事实上\n
+        there are few, if any, happy memories I have of my childhood involving my family members.\n
+        在我童年的记忆中，有家人在场的欢乐记忆少之又少，几乎没有\n
+        My happiest moments were spent with the few friends\n
+        我最快乐的时光是与少数几个朋友一起度过的\n
+        I was allowed to have.\n
+        他们是我被允许拥有的仅有的伙伴\n
+        My family eventually alienated all the neighbors,\n
+        但最终，我的家人把所有的邻居都排斥开了\n
+        so the time came\n
+        这时\n
+        when I didn’t even have neighborhood kids to play with.\n
+        我甚至找不到一个邻里间的玩伴一同玩耍\n
+        This was the time before internet.\n
+        这是互联网诞生之前\n
+        So, I learned to occupy my time\n
+        于是，我学着用各种方式填满自己的时间\n
+        reading,\n
+        阅读\n
+        discovering nature\n
+        探索大自然\n
+        and setting and achieving small goals for myself.\n
+        给自己订立小目标并实现它们\n
+        I became quite serious,\n
+        我变得十分严肃\n
+        just to hide my pain.\n
+        其实只是为了隐藏内心的伤痛\n
+        There was another family in town that,\n
+        城里有另一户人家\n
+        on paper was quite similar to mine.\n
+        从表面上看和我们家十分相似\n
+        They had a lot of children,\n
+        他们有许多孩子\n
+        aged spaced apart like my own family.\n
+        与我家一样，孩子之间的年龄差距很大\n
+        I always wondered\n
+        我总会想\n
+        what it would be like if my family were more like them.\n
+        如果我们家与他们家更相似一点，会是什么样子\n
+        They never knew it,\n
+        他们从未知道我的心思\n
+        but I watched them\n
+        我却观察着他们\n
+        and admired them.\n
+        倾慕他们\n
+        They were kind,\n
+        他们都很善良\n
+        genuine and close\n
+        真诚，彼此亲密\n
+    </string>
+    <string-array name="list">
+        <item>Chapter1</item>
+        <item>Chapter2</item>
+        <item>Chapter3</item>
+        <item>Chapter4</item>
+        <item>Chapter5</item>
+        <item>Chapter6</item>
+        <item>Chapter7</item>
+        <item>Chapter8</item>
+        <item>Chapter9</item>
+    </string-array>
+</resources>

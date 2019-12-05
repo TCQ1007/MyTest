@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/contentbg"
+    android:background="#FAF7F7"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="\n书目名"
+        android:textSize="30sp"
+        android:background="@color/main_background"/>
+    <TextView
+        android:id="@+id/select_cet4"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="查看数据库"
+        android:textSize="20sp"
+        android:background="@color/main_background"/>
+    <ListView
+        android:id="@+id/chapter_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#8B8B8B"
+        android:dividerHeight="1dp"
+        android:entries="@array/list"
+        android:minHeight="30dp"/>
+
+</LinearLayout>
